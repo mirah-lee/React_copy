@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+/* PretendardVariable */
+@font-face{
+    font-family: 'Pretendard';
+    src: url(./PretendardVariable.woff2) format('woff2');
+    font-weight: 45 920;
+    font-style: normal;
+    font-display: swap;
+}
+/* Noto Sans */
+@font-face {
+    font-family: 'Noto Sans KR';
+    src: url(./NotoSansKR-Regular.woff2);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Noto Sans KR Bold';
+    src: url(./NotoSansKR-Bold.woff2);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Noto Sans KR Medium';
+    src: url(./NotoSansKR-Medium.woff2);
+    font-weight: 500;
+}
