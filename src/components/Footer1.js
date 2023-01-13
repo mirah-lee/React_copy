@@ -3,8 +3,8 @@ import React from "react";
 function Footer1(props) {
   return (
     <>
-      <div class="footer-wrap1">
-        <div class="linkline">
+      <div className="footer-wrap1">
+        <div className="linkline">
           <ul>
             <li>
               <a href="#">HOME</a>

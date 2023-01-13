@@ -12,7 +12,7 @@ function SlideImg(props) {
     const path = process.env.PUBLIC_URL;
     return (
         <div>
-            <section class="slide_img">
+            <section className="slide_img">
                 <Swiper
                 pagination={{
                     dynamicBullets:true,
@@ -25,7 +25,7 @@ function SlideImg(props) {
                 calssName="mySwiper"
                 >
                     <SwiperSlide>
-                        <div class="img_box1 s_img">
+                        <div className="img_box1 s_img">
                             <h3>FIVESTONE</h3>
                             <h2>CREATIVE DESIGN</h2>
                             <p>정직과 신뢰, 디자인을 최우선으로 생각하며</p>
@@ -33,7 +33,7 @@ function SlideImg(props) {
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div class="img_box2 s_img">
+                        <div className="img_box2 s_img">
                             <h3>FIVESTONE</h3>
                             <h2>VERSATILE DESIGN</h2>
                             <p>정직과 신뢰, 디자인을 최우선으로 생각하며</p>
@@ -41,7 +41,7 @@ function SlideImg(props) {
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div class="img_box3 s_img">
+                        <div className="img_box3 s_img">
                             <h3>FIVESTONE</h3>
                             <h2>RESPONSIVE DESIGN</h2>
                             <p>정직과 신뢰, 디자인을 최우선으로 생각하며</p>

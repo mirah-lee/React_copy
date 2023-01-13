@@ -4,16 +4,16 @@ function Footer2(props) {
     const path = process.env.PUBLIC_URL;
     return (
         <>
-         <div class="footer-wrap2">
-            <div class="foot_icon">
+         <div className="footer-wrap2">
+            <div className="foot_icon">
                 <ul>
-                    <li><a href="#"><img src={path + "./images/mf-icon01.png"} alt="icon" /></a></li>
-                    <li><a href="#"><img src={path + "./images/mf-icon02.png"} alt="icon" /></a></li>
-                    <li><a href="#"><img src={path + "./images/mf-icon03.png"} alt="icon" /></a></li>
-                    <li><a href="#"><img src={path + "./images/mf-icon04.png"} alt="icon" /></a></li>
+                    <li><a href="#"><img src={path + "/images/mf-icon01.png"} alt="icon" /></a></li>
+                    <li><a href="#"><img src={path + "/images/mf-icon02.png"} alt="icon" /></a></li>
+                    <li><a href="#"><img src={path + "/images/mf-icon03.png"} alt="icon" /></a></li>
+                    <li><a href="#"><img src={path + "/images/mf-icon04.png"} alt="icon" /></a></li>
                 </ul>
             </div>
-            <div class="address">
+            <div className="address">
                 <ul>
                     <li>회사 : 파이브스톤</li>
                     <li>대표: 김성용</li>

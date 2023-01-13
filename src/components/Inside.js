@@ -5,8 +5,8 @@ function Inside(props) {
     const path = process.env.PUBLIC_URL;
     return (
         <>
-            <section class="inside">
-                <div class="mi">
+            <section className="inside">
+                <div className="mi">
                     <h4>fivestone inside</h4>
                     <p>파이브 스톤과 함께 하세요!</p>
                     <InsideList />
