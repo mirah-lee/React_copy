@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_copy/static/css/main.01cdcb1d.css",
-    "main.js": "/React_copy/static/js/main.f54b232d.js",
+    "main.js": "/React_copy/static/js/main.c2695fc9.js",
     "static/media/PretendardVariable.woff2": "/React_copy/static/media/PretendardVariable.36b3a87cd98126711b2b.woff2",
     "static/media/NotoSansKR-Bold.woff2": "/React_copy/static/media/NotoSansKR-Bold.8b8bc0e928b48f3a927a.woff2",
     "static/media/NotoSansKR-Medium.woff2": "/React_copy/static/media/NotoSansKR-Medium.3c49ca4f9c1a1b5a7dc0.woff2",
@@ -17,10 +17,10 @@
     "static/media/m-op05.jpg": "/React_copy/static/media/m-op05.0049be95cd6e2adb7ea7.jpg",
     "index.html": "/React_copy/index.html",
     "main.01cdcb1d.css.map": "/React_copy/static/css/main.01cdcb1d.css.map",
-    "main.f54b232d.js.map": "/React_copy/static/js/main.f54b232d.js.map"
+    "main.c2695fc9.js.map": "/React_copy/static/js/main.c2695fc9.js.map"
   },
   "entrypoints": [
     "static/css/main.01cdcb1d.css",
-    "static/js/main.f54b232d.js"
+    "static/js/main.c2695fc9.js"
   ]
 }
