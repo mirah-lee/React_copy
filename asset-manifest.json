@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_copy/static/css/main.01cdcb1d.css",
+    "main.js": "/React_copy/static/js/main.f54b232d.js",
+    "static/media/PretendardVariable.woff2": "/React_copy/static/media/PretendardVariable.36b3a87cd98126711b2b.woff2",
+    "static/media/NotoSansKR-Bold.woff2": "/React_copy/static/media/NotoSansKR-Bold.8b8bc0e928b48f3a927a.woff2",
+    "static/media/NotoSansKR-Medium.woff2": "/React_copy/static/media/NotoSansKR-Medium.3c49ca4f9c1a1b5a7dc0.woff2",
+    "static/media/NotoSansKR-Regular.woff2": "/React_copy/static/media/NotoSansKR-Regular.b1db0fdc3a40f3da4051.woff2",
+    "static/media/m-op04.jpg": "/React_copy/static/media/m-op04.43842065d0ef20f45b76.jpg",
+    "static/media/m-op02.jpg": "/React_copy/static/media/m-op02.fc447795627189755619.jpg",
+    "static/media/visual01.jpg": "/React_copy/static/media/visual01.5fe38f5b13f4e180ea82.jpg",
+    "static/media/visual02.jpg": "/React_copy/static/media/visual02.9188b8c07df741ee1073.jpg",
+    "static/media/visual03.jpg": "/React_copy/static/media/visual03.4a4309d5d72988af2213.jpg",
+    "static/media/m-op01.jpg": "/React_copy/static/media/m-op01.70ba08dc2c7c976923e1.jpg",
+    "static/media/m-op03.jpg": "/React_copy/static/media/m-op03.074ea0be137acfb8bd02.jpg",
+    "static/media/m-op06.jpg": "/React_copy/static/media/m-op06.aa2acd6be83bdc6b0deb.jpg",
+    "static/media/m-op05.jpg": "/React_copy/static/media/m-op05.0049be95cd6e2adb7ea7.jpg",
+    "index.html": "/React_copy/index.html",
+    "main.01cdcb1d.css.map": "/React_copy/static/css/main.01cdcb1d.css.map",
+    "main.f54b232d.js.map": "/React_copy/static/js/main.f54b232d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01cdcb1d.css",
+    "static/js/main.f54b232d.js"
+  ]
+}
